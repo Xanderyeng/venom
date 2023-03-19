@@ -1,6 +1,6 @@
 import React from 'react'
 import { Button, Container } from '@mui/material'
-import { bg } from '../../assets/bg.png'
+import bg from '../../assets/bg.png'
 import './hero.css'
 
 const Hero = () => {
