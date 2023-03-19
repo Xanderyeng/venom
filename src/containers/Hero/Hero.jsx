@@ -15,7 +15,7 @@ const Hero = () => {
         </div>
     <Button variant="outlined" href="" sx={{ color: 'whitesmoke', borderColor: 'whitesmoke', borderRadius: '8px', ":hover": {
         borderColor: 'transparent' }}} className='hero-btn'>
-        Start Now
+        Book Now
         </Button>
     </Container>
 
