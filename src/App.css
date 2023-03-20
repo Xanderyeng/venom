@@ -19,9 +19,14 @@ html {
 }
 
 body {
-  position: relative;
+  overflow: hidden;
 }
 a, a:visited, a:active {
   text-decoration: none;
   color: whitesmoke;
+}
+
+.App{
+  height: 100vh;
+  position: relative;
 }
